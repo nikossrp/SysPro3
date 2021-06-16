@@ -8,4 +8,4 @@ make
 
 <h3><p>Description</h3></p>
 cyclicBuffer: is a simple shared structure that will store files for the threads.
-Everything else is the same as the SysPro2 but for communication instead of named pipes, sockets were used for communication between processes.
+Everything else is the same as the SysPro2 but for communication between processes using sockets instead of using named pipes.

@@ -1,6 +1,6 @@
 # SysPro3
 CyclicBuffer is a simple shared structure that will store files for the threads. Each thread gets a file from cyclicbuffer and inserts entries into the vaccineMonitor/project1 dataset.
-I'm using sockets for the communication between processes, everything else is the same as the SysPro2, .
+I use sockets for the communication between processes, everything else is the same as the SysPro2, .
 
 <p><h3>Compile</h3></p>
 make
